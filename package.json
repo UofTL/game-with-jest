@@ -1,0 +1,35 @@
+{
+    "name": "jest-another-rpg",
+    "version": "1.0.0",
+    "description": "week 10 module activity continue learning about Node.js and OPP",
+    "main": "app.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/UofTL/jest-another-RPG.git"
+    },
+    "keywords": [
+        "OPP",
+        "TDD",
+        "node.js",
+        "command",
+        "line",
+        "Game",
+        "with",
+        "node",
+        "week",
+        "10",
+        "module"
+    ],
+    "author": "Eleonore caclard",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/UofTL/jest-another-RPG/issues"
+    },
+    "homepage": "https://github.com/UofTL/jest-another-RPG#readme",
+    "devDependencies": {
+        "jest": "^27.0.6"
+    }
+}
